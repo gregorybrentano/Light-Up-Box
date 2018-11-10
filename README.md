@@ -11,6 +11,8 @@ Multi-Objective EA Search
 
 You can compile & run the code for each approach by using the given run.sh script
 
+Just as a warning, executing the code for the Constraint-Satisfaction EA Search & Multi-Objective EA Search will end up taking upwards of 30 minutes
+
 ## Authors
 
 * **Gregory Brentano**
