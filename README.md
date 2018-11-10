@@ -2,10 +2,7 @@
 
 Four different approaches for solving NP-Complete Light Up Puzzles:
 
-Random Search
-Evolutionary Algorithm Search
-Constraint-Satisfaction EA Search
-Multi-Objective EA Search
+Random Search, Evolutionary Algorithm Search, Constraint-Satisfaction EA Search, Multi-Objective EA Search
 
 ## Running the code
 
