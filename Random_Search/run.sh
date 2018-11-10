@@ -1,3 +1,5 @@
 #!/bin/bash
-g++ -w Assignment1a.cpp
-./a.out $1
+g++ -w -o puzzle randomSearch.cpp
+./puzzle
+./puzzle ./configs/config.cfg
+./puzzle ./configs/randomConfig.cfg
